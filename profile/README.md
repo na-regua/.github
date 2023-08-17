@@ -1,14 +1,6 @@
-## Na Reguá [WIP]
+## Na Reguá 💈 [WIP]
 
 The most useful barber app.
 
-<!--
+🎨 Figma - [APP](https://www.figma.com/proto/WEOmbDAX3U8wTZq5x9LJzm/Wireframes---Na-R%C3%A9gua?type=design&node-id=132-4600&t=aKpW79wMA8OREP8r-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=132%3A4600&show-proto-sidebar=1&mode=design)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
