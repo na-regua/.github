@@ -1,4 +1,6 @@
-## Hi there 👋
+## Na Reguá [WIP]
+
+The most useful barber app.
 
 <!--
 
